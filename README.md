@@ -23,5 +23,5 @@ kernel: 'rbf'
 selector__k: 10
 Test Accuracy: 0.878 
 
-# Problem 1: Time Series Prediction
+**Problem 1: Time Series Prediction**
 Removing outliers using the Interquartile Range (IQR) method. We included temporal features like year, month, day, day_of_week. These features capture seasonality and temporal patterns, which are crucial for accurate time series forecasting. Linear Regression is chosen for its simplicity and interpretability. 
